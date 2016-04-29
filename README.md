@@ -1,10 +1,8 @@
 # Οδηγίες χρήσης LaTeX στα ελληνικά
 
-Σε αυτό το αποθετήριο ανεβάζουμε τον κώδικα LaTex απο τον οδηγό : 
+Τα αρχεία μετα φέρθηκαν στο αποθετήριο CerebruxRepo :
 
-https://cerebrux.net/2016/04/01/eisagogi-latex-prota-vimata/
+https://github.com/CerebruxCode/LaTeX
 
-### Αδεια χρήσης
 
-Creative Commons Zero v1.0 universal
-(βλέπε αρχείο Lisence)
+
